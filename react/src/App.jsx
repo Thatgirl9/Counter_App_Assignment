@@ -42,7 +42,7 @@ function App() {
   };
 
   return (
-    <section>
+    <section className="body-section">
       <section className="count-section">
         <h5>Current Value:</h5>
 
